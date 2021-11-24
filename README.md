@@ -1,6 +1,6 @@
 ### Saumyata Srivastava
 
-- 😄 GIS Analyst
+- 😄 Geospatial Data Analyst
 - ✨ GEE Enthusiastic
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=saumyatas&show_icons=true)
