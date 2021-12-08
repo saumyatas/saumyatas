@@ -2,6 +2,7 @@
 
 - 👩‍🎓 Geospatial Data Analyst
 - ✨ GEE Enthusiastic
+- :black_nib: Published - [GEE JavaScript Tutorial](https://developers.google.com/earth-engine/tutorials/community/spatiotemporal-image-statistics)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=saumyatas&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyatas&langs_count=3)  
